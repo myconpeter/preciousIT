@@ -9,9 +9,16 @@ const FooterBottom = () => {
 					<span className='text-md mr-[1px] mt-[2px] md:mt-0 text-center hidden md:inline-flex'>
 						<AiOutlineCopyright />
 					</span>
-					Copyright 2022 | SwiftBuy shopping | All Rights Reserved |
-					{/* Precious Name */}
+					Copyright 2022 | SwiftBuy shopping | All Rights Reserved
 				</p>
+
+				<p className=' mt-2 text-titleFont font-normal text-center flex md:items-center justify-center text-lightText duration-200 text-sm'>
+					20/SC/CO/927
+				</p>
+				<p className='mt-2 text-titleFont font-normal text-center flex md:items-center justify-center text-lightText duration-200 text-sm'>
+					ETUK PRECIOUS ITORO
+				</p>
+				{/* Precious Name */}
 			</div>
 		</div>
 	);
